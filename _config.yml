@@ -97,9 +97,9 @@ analytics:
 author:
   name             : "Kho Geon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : 
   location         : "Somewhere"
-  email            :
+  email            : geon.kho@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
