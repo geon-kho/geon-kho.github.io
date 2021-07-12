@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geon's Blog"
+title                    : "Kho Geon"
 title_separator          : "-"
 subtitle                 : ""
 email                    : gean.kho01@gmail.com
 name                     : "Kho Geon"
-description              : "Economics, Mathmatics, Statistics, Some Hobby"
+description              : ""
 url                      : "https://geon-kho.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,9 +97,9 @@ analytics:
 author:
   name             : "Kho Geon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 
-  location         : "Somewhere"
-  email            : geon.kho@gmail.com
+  bio              : "Department of Agricultural Economics and Rual at SNU"
+  location         : 
+  email            : "geon.kho@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
