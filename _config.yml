@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "Kho Geon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Agricultural Economics and Rual at SNU"
-  location         : 
+  bio              : "Department of Agricultural Economics and Rural at SNU"
+  location         : "Gwanak-gu, Seoul"
   email            : "geon.kho@gmail.com"
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/geon-kho"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
