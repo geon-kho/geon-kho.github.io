@@ -97,9 +97,9 @@ analytics:
 author:
   name             : "Kho Geon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Department of Agricultural Economics and Rural at SNU<br> Major in Agricultural & Resource Economics and Astronomy"
+  bio              : "Department of Agricultural Economics and Rural at SNU"
   location         : "Gwanak-gu, Seoul"
-  email            : "geon.kho@gmail.com"
+  email            : "geon.kho01@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
