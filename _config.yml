@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kho Geon"
+title                    : "Kho Geon's Blog"
 title_separator          : "-"
 subtitle                 : ""
 email                    : gean.kho01@gmail.com
