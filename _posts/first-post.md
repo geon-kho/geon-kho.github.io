@@ -1,6 +1,6 @@
 # Front Matter
 ---
-date: 2019-01-25
+date: 2022-01-01
 title: "Jekyll 첫번째 글"
 categories: blog
 tags: jekyll
@@ -9,6 +9,4 @@ toc: true
 toc_sticky: true 
 ---
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+써보자.
